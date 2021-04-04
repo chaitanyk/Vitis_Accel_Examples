@@ -15,6 +15,7 @@
 */
 
 // comment 1
+// // comment 2
 #ifndef __KERNELS_H__
 #define __KERNELS_H__
 
